@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janhavitayde
-- 👀 I’m a student and interested in programming
-- 🌱 I’m currently learning Django
+- 👀 I’m a Final Year Computer Science Student
+- Currently learning Data Analytics 
 
 
 <!---
